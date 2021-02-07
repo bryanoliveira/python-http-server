@@ -1,5 +1,11 @@
-# http-server
-An HTTP server made with sockets and multiprocessing in Python.
+# Python HTTP Server
+An HTTP server made from scratch with sockets and multiprocessing in Python.
 
-## How to run
-Execute `python http_server.py`. You can run `sh client.sh` to test how the server handles connections.
+## Usage
+- Install [Python 3](https://www.python.org/downloads/)
+- Execute `python http_server.py`. 
+- Open an web browser and navigate to http://localhost:8080 or run `./client.sh` to test how the server handles connections.
+
+---
+
+Developed during the Distributed Systems course (UFG/INF0196/2019-2).
